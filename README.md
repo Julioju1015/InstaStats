@@ -17,7 +17,6 @@
 - [fonctionnement](#working)
 - [Utilisation](#usage)
 - [Démarrage](#getting_started)
-- [Déploiement du Bot](#deployment)
 - [Dépendances](#built_using)
 - [Auteur](#authors)
 
@@ -47,11 +46,11 @@ Pour voir toutes les commandes :
 ```
 ### Exemple:
 
-> +instagram graphicoum
+> +instagram julioju.fr
 
 ---
 
-<sup>👾 Je suis un Robot. En cas de problème, contactez moi ici [Discord](https://discord.gg/W5vM25ec7e)</sup>
+<sup>👾 Je suis un Robot. En cas de problème, contactez moi ici [Discord](https://discord.gg/TjSDZmVWvs)</sup>
 
 
 ## 🟢 | Démarrage <a name = "getting_started"></a>
@@ -71,7 +70,7 @@ Installation du bot
 1. Cloner le github
 
 ```
-git clone https://github.com/Dev-Mamba/InstaStats.git
+git clone https://github.com/Julioju1015/InstaStats.git
 ```
 
 2. Installation des dépendances
@@ -85,10 +84,6 @@ Demarrage du bot :
 ```
 node index.js
 ```
-
-## 🚀 | Déploiement du Bot <a name = "deployment"></a>
-## Version hébergée :
-- [Invitation](https://discordapp.com/oauth2/authorize?client_id=721307513810714624&scope=bot&permissions=604302401)
 
 ---
 
